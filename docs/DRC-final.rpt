@@ -1,0 +1,21 @@
+** Drc report for heart-pcb.kicad_pcb **
+** Created on 2026-08-18T01:55:21 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 1 DRC violations **
+[lib_footprint_mismatch]: Footprint 'R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal' does not match copy in library 'Resistor_THT'
+    Local override; warning
+    @(126.1200 mm, 72.0000 mm): Footprint R2
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

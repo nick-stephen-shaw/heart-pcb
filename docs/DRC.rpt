@@ -1,0 +1,602 @@
+** Drc report for heart-pcb.kicad_pcb **
+** Created on 2026-07-02T12:44:08 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 90 DRC violations **
+[shorting_items]: Items shorting two nets (nets GND and Net-(D13-K))
+    Local override; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(145.6200 mm, 90.0000 mm): PTH pad 2 [Net-(D13-K)] of R23
+[shorting_items]: Items shorting two nets (nets GND and VCC)
+    Local override; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(150.0000 mm, 105.0000 mm): PTH pad 1 [VCC] of R21
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1000 mm)
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(131.0000 mm, 72.0000 mm): Footprint D1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+    @(131.0000 mm, 72.0000 mm): Footprint R1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+    @(118.0000 mm, 85.0000 mm): Footprint D2
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+    @(118.0000 mm, 85.0000 mm): Footprint R5
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(150.0000 mm, 88.0000 mm): PTH pad 1 [GND] of C1
+    @(150.0000 mm, 98.0000 mm): Footprint BT1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): Footprint R14
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+    @(112.0000 mm, 97.0000 mm): Footprint D8
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+    @(169.0000 mm, 72.0000 mm): Footprint D5
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+    @(169.0000 mm, 72.0000 mm): Footprint R6
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+    @(188.0000 mm, 97.0000 mm): Footprint R16
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+    @(188.0000 mm, 97.0000 mm): Footprint D10
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+    @(182.0000 mm, 85.0000 mm): Footprint D6
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): Footprint R13
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(150.0000 mm, 105.0000 mm): PTH pad 1 [VCC] of R21
+    @(150.0000 mm, 98.0000 mm): Footprint BT1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(157.6200 mm, 105.0000 mm): PTH pad 2 [Net-(D11-K)] of R21
+    @(150.0000 mm, 98.0000 mm): Footprint BT1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+    @(161.0000 mm, 131.0000 mm): Footprint D14
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+    @(161.0000 mm, 131.0000 mm): Footprint R19
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(139.0000 mm, 131.0000 mm): Footprint D13
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+    @(139.0000 mm, 131.0000 mm): Footprint R18
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+    @(140.0000 mm, 79.0000 mm): Footprint D3
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+    @(140.0000 mm, 79.0000 mm): Footprint R2
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+    @(150.0000 mm, 98.0000 mm): Footprint BT1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(145.6200 mm, 90.0000 mm): PTH pad 2 [Net-(D13-K)] of R23
+    @(150.0000 mm, 98.0000 mm): Footprint BT1
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+    @(150.0000 mm, 138.0000 mm): Footprint D15
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+    @(150.0000 mm, 138.0000 mm): Footprint R20
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): Footprint R25
+[pth_inside_courtyard]: PTH inside courtyard
+    Local override; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+    @(160.0000 mm, 79.0000 mm): Footprint D7
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.2483 mm)
+    Rule: board setup constraints edge; error
+    @(150.6000 mm, 80.5000 mm): Segment on Edge.Cuts
+    @(152.3800 mm, 79.0000 mm): PTH pad 2 [Net-(D15-K)] of R25
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(145.6200 mm, 90.0000 mm): PTH pad 2 [Net-(D13-K)] of R23
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(150.0000 mm, 105.0000 mm): PTH pad 1 [VCC] of R21
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(131.2700 mm, 117.0400 mm): Reference field of D9
+    @(132.0000 mm, 117.0000 mm): PTH pad 1 [VCC] of R15
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(139.2200 mm, 101.6300 mm): Segment of BT1 on B.Silkscreen
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(142.6900 mm, 104.8500 mm): Arc of BT1 on B.Silkscreen
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+
+** Found 56 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(157.6200 mm, 105.0000 mm): PTH pad 2 [Net-(D11-K)] of R21
+    @(170.0000 mm, 121.0000 mm): PTH pad 1 [Net-(D11-K)] of D11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(120.5400 mm, 85.0000 mm): PTH pad 2 [/COL] of D2
+    @(114.5400 mm, 97.0000 mm): PTH pad 2 [/COL] of D8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(132.5400 mm, 121.0000 mm): PTH pad 2 [/COL] of D9
+    @(141.5400 mm, 131.0000 mm): PTH pad 2 [/COL] of D13
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.5400 mm, 72.0000 mm): PTH pad 2 [/COL] of D1
+    @(120.5400 mm, 85.0000 mm): PTH pad 2 [/COL] of D2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(141.5400 mm, 131.0000 mm): PTH pad 2 [/COL] of D13
+    @(152.5400 mm, 138.0000 mm): PTH pad 2 [/COL] of D15
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.5400 mm, 79.0000 mm): PTH pad 2 [/COL] of D3
+    @(133.5400 mm, 72.0000 mm): PTH pad 2 [/COL] of D1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.5400 mm, 79.0000 mm): PTH pad 2 [/COL] of D3
+    @(162.5400 mm, 79.0000 mm): PTH pad 2 [/COL] of D7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.5400 mm, 138.0000 mm): PTH pad 2 [/COL] of D15
+    @(163.5400 mm, 131.0000 mm): PTH pad 2 [/COL] of D14
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(162.5400 mm, 79.0000 mm): PTH pad 2 [/COL] of D7
+    @(171.5400 mm, 72.0000 mm): PTH pad 2 [/COL] of D5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(163.5400 mm, 131.0000 mm): PTH pad 2 [/COL] of D14
+    @(172.5400 mm, 121.0000 mm): PTH pad 2 [/COL] of D11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(169.5400 mm, 105.0000 mm): PTH pad 3 [/COL] of Q1
+    @(190.5400 mm, 97.0000 mm): PTH pad 2 [/COL] of D10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(172.5400 mm, 121.0000 mm): PTH pad 2 [/COL] of D11
+    @(169.5400 mm, 105.0000 mm): PTH pad 3 [/COL] of Q1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.5400 mm, 85.0000 mm): PTH pad 2 [/COL] of D6
+    @(171.5400 mm, 72.0000 mm): PTH pad 2 [/COL] of D5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5400 mm, 97.0000 mm): PTH pad 2 [/COL] of D10
+    @(184.5400 mm, 85.0000 mm): PTH pad 2 [/COL] of D6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D1-K)] of D1
+    @(132.3800 mm, 79.0000 mm): PTH pad 2 [Net-(D1-K)] of R2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D2-K)] of D2
+    @(174.3800 mm, 85.0000 mm): PTH pad 2 [Net-(D2-K)] of R13
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.0000 mm, 105.0000 mm): PTH pad 1 [GND] of U1
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(150.0000 mm, 88.0000 mm): PTH pad 1 [GND] of C1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 98.0000 mm): Pad 2 [GND] of BT1 on B.Cu
+    @(167.0000 mm, 105.0000 mm): PTH pad 1 [GND] of Q1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.5000 mm, 120.0000 mm): PTH pad 2 [GND] of C3
+    @(167.0000 mm, 105.0000 mm): PTH pad 1 [GND] of Q1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(140.6200 mm, 112.6200 mm): PTH pad 5 [Net-(U1-CONT)] of U1
+    @(155.0000 mm, 88.0000 mm): PTH pad 2 [Net-(U1-CONT)] of C1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(110.3800 mm, 85.0000 mm): PTH pad 2 [Net-(U1-THRES)] of R5
+    @(133.0000 mm, 107.5400 mm): PTH pad 2 [Net-(U1-THRES)] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(140.6200 mm, 110.0800 mm): PTH pad 6 [Net-(U1-THRES)] of U1
+    @(133.0000 mm, 107.5400 mm): PTH pad 2 [Net-(U1-THRES)] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 120.0000 mm): PTH pad 1 [Net-(U1-THRES)] of C3
+    @(140.6200 mm, 110.0800 mm): PTH pad 6 [Net-(U1-THRES)] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(122.5000 mm, 106.1000 mm): PTH pad 1 [VCC] of SW1
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R14
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(132.0000 mm, 117.0000 mm): PTH pad 1 [VCC] of R15
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.0000 mm, 112.6200 mm): PTH pad 4 [VCC] of U1
+    @(132.0000 mm, 117.0000 mm): PTH pad 1 [VCC] of R15
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.0000 mm, 112.6200 mm): PTH pad 4 [VCC] of U1
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(133.0000 mm, 112.6200 mm): PTH pad 4 [VCC] of U1
+    @(122.5000 mm, 106.1000 mm): PTH pad 1 [VCC] of SW1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(138.0000 mm, 90.0000 mm): PTH pad 1 [VCC] of R23
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(138.0000 mm, 90.0000 mm): PTH pad 1 [VCC] of R23
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R18
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 105.0000 mm): PTH pad 1 [VCC] of R21
+    @(140.6200 mm, 105.0000 mm): PTH pad 8 [VCC] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [VCC] of R20
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(162.0000 mm, 90.0000 mm): PTH pad 1 [VCC] of R24
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(162.0000 mm, 90.0000 mm): PTH pad 1 [VCC] of R24
+    @(150.0000 mm, 105.0000 mm): PTH pad 1 [VCC] of R21
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [VCC] of R25
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(169.0000 mm, 117.0000 mm): PTH pad 1 [VCC] of R17
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [VCC] of R19
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [VCC] of R6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [VCC] of R16
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [VCC] of R13
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(104.3800 mm, 97.0000 mm): PTH pad 2 [Net-(D3-K)] of R14
+    @(140.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D3-K)] of D3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(124.3800 mm, 117.0000 mm): PTH pad 2 [Net-(D5-K)] of R15
+    @(169.0000 mm, 72.0000 mm): PTH pad 1 [Net-(D5-K)] of D5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(180.3800 mm, 97.0000 mm): PTH pad 2 [Net-(D6-K)] of R16
+    @(182.0000 mm, 85.0000 mm): PTH pad 1 [Net-(D6-K)] of D6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(161.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+    @(169.6200 mm, 90.0000 mm): PTH pad 2 [Net-(D14-K)] of R24
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(118.0000 mm, 85.0000 mm): PTH pad 1 [Net-(U1-DISCH)] of R5
+    @(140.6200 mm, 107.5400 mm): PTH pad 7 [Net-(U1-DISCH)] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(140.6200 mm, 107.5400 mm): PTH pad 7 [Net-(U1-DISCH)] of U1
+    @(161.3800 mm, 72.0000 mm): PTH pad 2 [Net-(U1-DISCH)] of R6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(130.0000 mm, 121.0000 mm): PTH pad 1 [Net-(D9-K)] of D9
+    @(153.3800 mm, 131.0000 mm): PTH pad 2 [Net-(D9-K)] of R19
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(142.3800 mm, 138.0000 mm): PTH pad 2 [Net-(D10-K)] of R20
+    @(188.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(139.0000 mm, 131.0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+    @(145.6200 mm, 90.0000 mm): PTH pad 2 [Net-(D13-K)] of R23
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(131.0000 mm, 72.0000 mm): PTH pad 1 [Net-(U1-OUT)] of R1
+    @(133.0000 mm, 110.0800 mm): PTH pad 3 [Net-(U1-OUT)] of U1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(150.0000 mm, 138.0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+    @(152.3800 mm, 79.0000 mm): PTH pad 2 [Net-(D15-K)] of R25
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.3800 mm, 72.0000 mm): PTH pad 2 [Net-(Q1-B)] of R1
+    @(168.2700 mm, 105.0000 mm): PTH pad 2 [Net-(Q1-B)] of Q1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(112.0000 mm, 97.0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(131.3800 mm, 131.0000 mm): PTH pad 2 [Net-(D8-K)] of R18
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(160.0000 mm, 79.0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+    @(161.3800 mm, 117.0000 mm): PTH pad 2 [Net-(D7-K)] of R17
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(139.0150 mm, 98.0000 mm): Pad 1 [Net-(BT1-+)] of BT1 on B.Cu
+    @(122.5000 mm, 104.1000 mm): PTH pad 2 [Net-(BT1-+)] of SW1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(160.9850 mm, 98.0000 mm): Pad 1 [Net-(BT1-+)] of BT1 on B.Cu
+    @(139.0150 mm, 98.0000 mm): Pad 1 [Net-(BT1-+)] of BT1 on B.Cu
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
