@@ -4,9 +4,9 @@ A 100 × 100 mm heart-outline PCB driving LEDs from a 555 astable oscillator, po
 CR2032 coin cell. Designed from scratch in KiCad, fabricated at JLCPCB, and hand-assembled.
 First PCB I've designed and my first time soldering.
 
-![3D render, front](image.png)
+![3D render, front](docs/3D-render-front.png)
 
-![3D render, back](image-1.png)
+![3D render, back](docs/3D-render-Back.png)
 
 ## Circuit
 
@@ -21,7 +21,7 @@ actual output stage --> so the heart blinks at roughly <!-- REPLACE: frequency -
 | Power | CR2032 in BT1 holder | 3 V, THT holder |
 
 
-![Schematic](image-2.png)
+![Schematic](docs/Schematic.png)
 ## Layout
 
 The board outline is a heart drawn on Edge.Cuts rather than a rectangle, which drove most of
@@ -29,7 +29,7 @@ the layout decisions: LEDs are placed to trace the outline, and routing had to w
 the concave notch at the top and the point at the bottom where there's no copper area to
 route through.
 
-![Layout](image-3.png)
+![Layout](docs/PCB-Image-View.png)
 
 Two problems worth calling out from the design phase:
 
